@@ -52,8 +52,8 @@ StudentHub is a comprehensive college web portal designed and developed as a cap
 
 | Role | Name | Email Address | Description |
 | :--- | :--- | :--- | :--- |
-| **Student** | Kush Patel | `25cs072@charusat.edu.in` | Enrolled in Computer Science & Engineering (Year 2) |
-| **Admin** | Kush Patel | `kush@gmail.com` | Campus administrator with full portal privileges |
+| **Student** | Vidhi Patel | `25cs082@charusat.edu.in` | Enrolled in Computer Science & Engineering (Year 2) |
+| **Admin** | Vidhi Patel | `vidhi@gmail.com` | Campus administrator with full portal privileges |
 | **Student** | Namra Patel | `namra@gmail.com` | Enrolled in BCA (Year 3) |
 
 > **Self-Registration:** New students can register anytime via `register.php`. The system automatically generates a unique Student ID (e.g. `SH000004`), securely hashes passwords, initializes profile records, and logs the registration in the audit trail.
